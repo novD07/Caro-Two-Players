@@ -1,0 +1,11 @@
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\bin\Debug\Caro_HoXuanDai.exe.config
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\bin\Debug\Caro_HoXuanDai.exe
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\bin\Debug\Caro_HoXuanDai.pdb
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.csproj.AssemblyReference.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.frmDai.resources
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.Properties.Resources.resources
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.csproj.GenerateResource.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.csproj.CoreCompileInputs.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.exe
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.pdb
+D:\Study\Nam4_HK1\LapTrinhWindows\Caro_HoXuanDai\Caro_HoXuanDai\obj\Debug\Caro_HoXuanDai.InputNamePlayer.resources
